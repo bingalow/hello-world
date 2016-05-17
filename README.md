@@ -1,2 +1,5 @@
 # hello-world
-Learning
+
+Hello everyone,
+
+I'm going to try learn python!
